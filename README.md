@@ -362,6 +362,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ⭐ **If this project helped you, drop a star — it helps others find it too!** ⭐
 
-*Built as an Infosys Capstone 2026 project.*
+*Built as an Infosys Capstone 2026 project (Upendra).*
 
 </div>
